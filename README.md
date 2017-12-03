@@ -25,3 +25,6 @@ This was developed in a team consisting of:
 - Kevin Ye
 
 - Johnny Mak
+
+
+(Originally on BitBucket, now moved to GitHub.)
