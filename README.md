@@ -8,7 +8,7 @@ This version implements an AI that utilizes alpha-beta pruning (minimax algorith
 
 Simply follow on-screen instructions to play the game. Initially you will be prompted to select settings for the AI. After that, the game will play automatically until your turn comes.
 
-After your move, the AI will play. And so on.
+To enter moves, for example wanting to move from C4 to C5, type C4 C5 with a space. This will process the move correctly. (This is caps-insensitive.)
 
 ### COMPILING ###
 
